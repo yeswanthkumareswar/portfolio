@@ -1,0 +1,43 @@
+#font{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    line-height: 20pt;
+    font-size: 50px;
+}
+#id{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 5px;
+    font-size: 20px;
+}
+#bold{
+    font-weight: bold;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif ;
+    line-height: 0%;
+    margin-bottom: 30px;
+}
+#title{ 
+    margin-top: 20px;  
+    font-size: 20px;
+    line-height:0%;
+    margin-bottom: 10px;
+}
+#margin{
+    margin-bottom: 14px;
+    margin-top: 0%;
+    font-family: 'Shippori Mincho', serif;
+
+}
+hr{
+    background-color: dark black;
+}
+.resume {
+    border: 2px solid #333; /* Border style and color */
+    padding: 20px; /* Add padding for spacing */
+    max-width: 1200px; /* Limit the width of the resume */
+    margin: 0 auto; /* Center the resume on the page */
+}
+.section {
+    border-bottom: 1px solid #333; /* Add a bottom border to each section */
+    padding-bottom: 10px;
